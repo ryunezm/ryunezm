@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryunezm.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Java.
 
 
 <!---
