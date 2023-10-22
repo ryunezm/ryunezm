@@ -1,6 +1,20 @@
-- 👋 Hi, I’m @ryunezm.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Java.
+# 👋 Hi, I’m @ryunezm.
+
+## About Me
+- 🧑‍💻 I'm a Junior Web Developer, learning Angular and Spring Boot.
+
+## Technologies I Use
+- **Backend:** Spring Boot
+- **Frontend:** Angular, Angular Material
+- **Database:** MySQL
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/ryunezm/
+
+## Current Status
+I’m currently working on personal projects and actively seeking employment opportunities.
+
+
 
 
 <!---
