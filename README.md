@@ -2,7 +2,7 @@
 
 ## About Me
 - 👨🏻‍💻 I'm a Junior Web Developer, learning Angular and Spring Boot.
-- 🕷 In addition to my web development skills, I also have a foundation in C/C++, Python, and Matlab.
+- 🕷 In addition to my web development skills, I also have a foundation in some other programming languages (C/C++, Python, Matlab and Rust).
 
 ## Technologies I Use
 - **Backend:** Spring Boot
