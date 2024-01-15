@@ -9,8 +9,12 @@
 - **Frontend:** Angular, Angular Material
 - **Database:** MySQL
 
+## Portolio
+- **Profile [Under construction]**: https://ryunezm.github.io/
+- **Text encrypter**: https://ryunezm.github.io/EncriptadorTextoHTML/
+
 ## Contact
-- 👨🏻‍💼LinkedIn: https://www.linkedin.com/in/ryunezm/
+- **👨🏻‍💼LinkedIn**: https://www.linkedin.com/in/ryunezm/
 
 ## Current Status
 - 👀 I’m currently working on personal projects and actively seeking employment opportunities.
