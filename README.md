@@ -9,7 +9,7 @@
 - **Frontend:** Angular, Angular Material
 - **Database:** MySQL
 
-## Portolio
+## Portfolio
 - **Profile [Under construction]**: https://ryunezm.github.io/
 - **Text encrypter**: https://ryunezm.github.io/EncriptadorTextoHTML/
 
