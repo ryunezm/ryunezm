@@ -6,8 +6,8 @@
 
 ## Technologies I Use
 - **Backend:** Spring Boot
-- **Frontend:** Angular, Angular Material
-- **Database:** MySQL
+- **Frontend:** Angular
+- **Database:** MySQL, MongoDB
 
 ## Portfolio
 - **Profile [Under construction]**: https://ryunezm.github.io/
