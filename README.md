@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @ryunezm.
 
 ## About Me
+- 🧔🏻‍♂️ My name is Ruber and I'm from Colombia 🇨🇴
 - 👨🏻‍💻 I'm a Junior Web Developer, learning Angular and Spring Boot.
 - 🕷 In addition to my web development skills, I also have a foundation in some other programming languages (C/C++🔧, Python🐍, Matlab📊 and Rust🦀).
 
