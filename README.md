@@ -10,12 +10,15 @@
 - **Frontend:** Angular
 - **Database:** MySQL, MongoDB
 
-## Portfolio
-- **Profile [Under construction]**: https://ryunezm.github.io/
-- **Text encrypter**: https://ryunezm.github.io/EncriptadorTextoHTML/
-
 ## Contact
 - **👨🏻‍💼LinkedIn**: https://www.linkedin.com/in/ryunezm/
+ 
+## Portfolio
+- **Profile**: https://ryunezm.github.io/
+- **Movie cataloguer**: https://github.com/ryunezm/papsukkal
+- **Text encrypter**: https://ryunezm.github.io/EncriptadorTextoHTML/
+- **Unit converter**: https://github.com/ryunezm/Unit_Converter
+- **LeetCodes's problems solved en Rust**
 
 ## Current Status
 - 👀 I’m currently working on personal projects and actively seeking employment opportunities.
