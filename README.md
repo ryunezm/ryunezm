@@ -18,7 +18,7 @@
 - **Movie cataloguer**: https://github.com/ryunezm/papsukkal
 - **Text encrypter**: https://ryunezm.github.io/EncriptadorTextoHTML/
 - **Unit converter**: https://github.com/ryunezm/Unit_Converter
-- **LeetCodes's problems solved en Rust**
+- **LeetCodes's problems solved en Rust**: https://github.com/ryunezm/leetcode_rust
 
 ## Current Status
 - 👀 I’m currently working on personal projects and actively seeking employment opportunities.
