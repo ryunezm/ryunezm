@@ -2,13 +2,13 @@
 
 ## About Me
 - 🧔🏻‍♂️ My name is Ruber and I'm from Colombia 🇨🇴
-- 👨🏻‍💻 I'm a Junior Web Developer, learning Angular and Spring Boot.
-- 🕷 In addition to my web development skills, I also have a foundation in some other programming languages (C/C++🔧, Python🐍, Matlab📊 and Rust🦀).
+- 👨🏻‍💻 I'm a Full Stack Developer (Spring Boot 🍃 + Angular 🅰️).
+- 🕷 I also have a foundation in some other programming languages (C/C++🔧, Python🐍, Matlab📊 and Rust🦀).
 
 ## Technologies I Use
 - **Backend:** Spring Boot
 - **Frontend:** Angular
-- **Database:** MySQL, MongoDB
+- **Database:** MongoDB, MySQL, PostgreSQL
 
 ## Contact
 - **👨🏻‍💼LinkedIn**: https://www.linkedin.com/in/ryunezm/
